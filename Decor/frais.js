@@ -6,7 +6,7 @@ import LocalMallIcon from '@mui/icons-material/LocalMall';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import Video from './img/video.mp4';
+import Video from './img/frais/video.mp4';
 
 const Frais = () => (
   <div class='frais'>

@@ -122,7 +122,7 @@
     appearance: none;
     height: 18px;
     width: 18px;
-    background-image: url(../img/pngwing.com.png);
+    background-image: url(../img/frais/pngwing.com.png);
     background-size: 18px 18px;
 }
 
@@ -160,7 +160,7 @@
 .photo-1-frais{
     height: 100%;
     width: 1016px;
-    background: url(../img/photo-1.webp) no-repeat center;
+    background: url(../img/frais/photo-1.webp) no-repeat center;
     background-size: cover;
     margin-left: 15%;
     z-index: 1;
@@ -299,7 +299,7 @@
 .img-soap-frais{
     width: 456px;
     height: 598px;
-    background: url(../img/photo-2.webp) no-repeat center;
+    background: url(../img/frais/photo-2.webp) no-repeat center;
     background-size: cover;
     z-index: 2;
     position: relative;
@@ -354,7 +354,7 @@
 .card-1-frais{
     width: 300px;
     height: 100%;
-    background: url(../img/card-1.webp) no-repeat center;
+    background: url(../img/frais/card-1.webp) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -362,7 +362,7 @@
 .card-2-frais{
     width: 300px;
     height: 100%;
-    background: url(../img/card-2.webp) no-repeat center;
+    background: url(../img/frais/card-2.webp) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -370,7 +370,7 @@
 .card-3-frais{
     width: 300px;
     height: 100%;
-    background: url(../img/card-3.webp) no-repeat center;
+    background: url(../img/frais/card-3.webp) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -378,7 +378,7 @@
 .card-4-frais{
     width: 300px;
     height: 100%;
-    background: url(../img/card-4.webp) no-repeat center;
+    background: url(../img/frais/card-4.webp) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -512,7 +512,7 @@
 .photo-1-natue-frais{
     width: 842px;
     height: 524px;
-    background: url(../img/natur-1.webp) no-repeat center;
+    background: url(../img/frais/natur-1.webp) no-repeat center;
     background-size: cover;
     position: relative;
     left: 27.5%;
@@ -521,7 +521,7 @@
 .photo-2-natue-frais{
     width: 508px;
     height: 620px;
-    background: url(../img/natur-2.webp) no-repeat center;
+    background: url(../img/frais/natur-2.webp) no-repeat center;
     background-size: cover;
     position: relative;
     left: 36%;
@@ -557,21 +557,21 @@
 .photo-blog-1-frais{
     width: 270px;
     height: 100%;
-    background: url(../img/blog-1.webp) no-repeat center;
+    background: url(../img/frais/blog-1.webp) no-repeat center;
     background-size: cover;
 }
 
 .photo-blog-2-frais{
     width: 270px;
     height: 100%;
-    background: url(../img/blog-2.webp) no-repeat center;
+    background: url(../img/frais/blog-2.webp) no-repeat center;
     background-size: cover;
 }
 
 .photo-blog-3-frais{
     width: 270px;
     height: 100%;
-    background: url(../img/blog-3.webp) no-repeat center;
+    background: url(../img/frais/blog-3.webp) no-repeat center;
     background-size: cover;
 }
 
