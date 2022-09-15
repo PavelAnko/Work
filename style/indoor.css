@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=PT+Sans+Narrow&display=swap');
+
+.indoor{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+}
+
+.fixed-bloc-indoor{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(255, 255, 255, .85);
+    position: fixed;
+    margin-top: 77px;
+    display: flex;
+    justify-content: center;
+}
+
+.position-contant-fixed-bloc-indoor{
+    width: 46%;
+    height: 100%;
+    display: flex;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.title-syte-indoor{
+    width: 15%;
+    height: auto;
+    margin-top: 40px;
+}
+
+.style-link-for-fixed-title-indoor{
+    font-size: 24px;
+    color: rgb(30, 36, 39);
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.title-syte-indoor:after{
+    content: "";
+    display: block;
+    position: relative;
+    top: 6px;
+    left: -26px;
+    width: 80px;
+    margin: 0 auto;
+    height: 4px;
+    background-color: rgb(30, 36, 39);
+} 
+
+.log-in-basket-indoor{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.hdkbac-indoor{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.style-link-bloc-indoor{
+    font-size: 19px;
+    color: rgb(64, 83, 87);
+    transition: .3s;
+}
+
+.style-link-bloc-indoor:hover{
+    color: rgb(30, 36, 39);
+    transition: .3s;
+}
+
+.account-indoor{
+    color: rgb(64, 83, 87);
+    margin-top: 6px;
+    margin-right: 4px;
+}
+
+.mall-icon-indoor{
+    color: rgb(64, 83, 87);
+    margin-top: 6px;
+    margin-left: 20px;
+}
+
+.style-title-text-indoor{
+    transition: all .3s;
+    font-size: 19px;
+    color: rgb(64, 83, 87);
+}
+
+.style-title-text-indoor:hover{
+    color: rgb(92, 112, 122);
+    transition: all .3s;
+}
+
+.invis-bloc-for-indoor{
+    width: 100%;
+    height: 197px;
+}
+
+.first-bloc-indoor{
+    width: 50%;
+    height: 390px;
+    margin-left: 25%;
+    background-color: red;
+    display: flex;
+}
+
+.f-half-first-bloc-indoor{
+    background-color: rgb(128,166,173);
+    width: 50%;
+    height: 100%;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.half-f-info-1-indoor{
+    width: 90%;
+    margin-left: 5%;
+    height: 70%;
+    margin-top: 5%;
+    font-size: 70px;
+    font-weight: 600;
+    color: rgb(64, 83, 87);
+}
+
+.half-f-info-2-indoor{
+    margin-left: 5%;
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 3px;
+    height: 45px;
+    width:max-content;
+    border-bottom: 3px solid rgb(64, 83, 87, 0.5);
+}
+
+.t-half-first-bloc-indoor{
+    width: 50%;
+    height: 100%;
+    background: url(../img/indoor/slider-1.webp) no-repeat center;
+    background-size: cover;
+}
+
+.second-bloc-indoor{
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pilar-bloc-indoor{
+    width: 32%;
+    height: 100%;
+}
+
+.photo-1-indoor{
+    height: 638px;
+    width: 100%;
+    background: url(../img/indoor/1.webp) no-repeat center;
+}
+
+.photo-2-indoor{
+    margin-top: 20px;
+    height: 450px;
+    width: 100%;
+    background: url(../img/indoor/2.webp) no-repeat center;
+}
+
+.photo-3-indoor{
+    margin-top: 20px;
+    height: 639px;
+    width: 100%;
+    background: url(../img/indoor/3.webp) no-repeat center;
+}
+
+.photo-4-indoor{
+    height: 310px;
+    width: 100%;
+    background: url(../img/indoor/4.webp) no-repeat center;
+}
+
+.photo-5-indoor{
+    margin-top: 20px;
+    height: 310px;
+    width: 100%;
+    background: url(../img/indoor/5.webp) no-repeat center;
+}
+
+.photo-6-indoor{
+    margin-top: 20px;
+    height: 638px;
+    width: 100%;
+    background: url(../img/indoor/6.webp) no-repeat center;
+}
+
+.photo-7-indoor{
+    margin-top: 20px;
+    height: 310px;
+    width: 100%;
+    background: url(../img/indoor/7.webp) no-repeat center;
+}
+
+.photo-8-indoor{
+    margin-top: 20px;
+    height: 309px;
+    width: 100%;
+    background: url(../img/indoor/8.webp) no-repeat center;
+}
+
+.photo-9-indoor{
+    margin-top: 20px;
+    height: 450px;
+    width: 100%;
+    background: url(../img/indoor/9.webp) no-repeat center;
+}
+
+.photo-10-indoor{
+    margin-top: 20px;
+    height: 310px;
+    width: 100%;
+    background: url(../img/indoor/10.webp) no-repeat center;
+}
+
+.photo-11-indoor{
+    margin-top: 20px;
+    height: 310px;
+    width: 100%;
+    background: url(../img/indoor/11.webp) no-repeat center;
+}
+
+.photo-12-indoor{
+    margin-top: 20px;
+    height: 447px;
+    width: 100%;
+    background: url(../img/indoor/12.webp) no-repeat center;
+}
+
+.hover-photo-indoor{
+    background-size: 100%;
+    transition: all .8s;
+}
+
+.hover-photo-indoor:hover{
+    background-size: 107%;
+    transition: all .8s;
+}
+
+.mark-photo-indoor{
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    background-color: rgb(128,166,173);
+    font-family: 'Barlow Condensed', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+
+.butt-pilar-bloc-indoor{
+    width: 100%;
+    height: 170px;
+    background-color: rgb(128,166,173);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 57px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin-top: 20px;
+    transition: all .3s;
+}
+
+.position-butt-pilar-bloc{
+    margin-top: 0;
+}
+
+.butt-pilar-bloc-indoor:hover{
+    transition: all .3s;
+    background-color: rgba(128, 166, 173, 0.7);
+}
+
+.bloc-addit-info-indoor{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    background-color: rgb(78, 109, 116);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.position-addit-info-indoor{
+    width: 46%;
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 19px;
+}
+
+.by-indoor{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 17px;
+}
+
+.addint-bloc-1-indoor{
+    width: 15%;
+    height: 100%;
+    color: #fff;
+    line-height: 22px;
+}
+
+.addint-bloc-2-indoor{
+    width: 22%;
+    height: 100%;
+    color: #fff;
+    line-height: 22px;
+}
+
+.addint-bloc-3-indoor{
+    width: 50%;
+    height: 100%;
+    color: #fff;
+}
+
+.social-networks-icons-indoor{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+.bank-card-indoor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%
+}
+
+.bank-card-1-indoor{
+    background: url(../img/indoor/card-1.webp) no-repeat center;
+    width: 34px;
+    height: 22px;
+}
+
+.bank-card-2-indoor{
+    background: url(../img/indoor/card-2.webp) no-repeat center;
+    width: 34px;
+    height: 22px;
+}
+
+.bank-card-3-indoor{
+    background: url(../img/indoor/card-3.webp) no-repeat center;
+    width: 34px;
+    height: 22px;
+}
+
+.bank-card-4-indoor{
+    background: url(../img/indoor/card-4.webp) no-repeat center;
+    width: 34px;
+    height: 22px;
+}
+
+.butt-addit-indoor{
+    background-color: rgb(64, 83, 87);
+    color: #fff;
+    width: 100%;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s;
+}
+
+.butt-addit-indoor:hover{
+    background-color: rgb(128,166,173);
+    transition: all .4s;
+}
+
+.email-for-addit-indoor{
+    height: 33px;
+    width: 100%;
+    outline: none;
+    border: 1.5px solid rgb(255, 255, 255);
+    font-size: 19px;
+    padding-left: 10px;
+    background: none;
+    color: #fff;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.email-for-addit-indoor:hover{
+    border: 2.5px solid rgb(255, 255, 255);
+}
+
+.email-for-addit-indoor::placeholder{
+    color: #fff;
+}
+
+.email-for-addit-indoor:focus{
+    border: 2.5px solid rgb(255, 255, 255);
+}
